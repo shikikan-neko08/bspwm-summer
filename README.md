@@ -49,6 +49,7 @@ On the right side, there are network eth module, filesystem,cpu, ram, clock and 
  * nitrogen 
  * Font Awesome
  * w3m (for neofetch/ranger images on urxvt)
+ * [clearine](https://github.com/okitavera/clearine)
 
    
  
