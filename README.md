@@ -2,7 +2,9 @@
 
 ![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-12-192823_1360x768_scrot.png) 
 
-![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-12-191646_1360x768_scrot.png)  
+![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-12-191646_1360x768_scrot.png)
+
+
       
 
 
@@ -18,6 +20,8 @@
 * Lockscreen: betterlockscreen
 
 There are 2 terminal options, kitty can be launched using mod+Return. While urxvt can be launched using mod+shift+return.
+
+![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-16-110607_1360x768_scrot.png) 
 
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)
