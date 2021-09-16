@@ -31,6 +31,7 @@
 ![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-16-110607_1360x768_scrot.png)
 
 There are 2 terminal options, kitty can be launched using mod+Return. While urxvt can be launched using mod+shift+return.
+> kindly note that urxvt support are still in beta this time.
 
 ## Polybar
 ![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-16-114259_1360x768_scrot.png)
