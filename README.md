@@ -6,6 +6,8 @@
 
 ![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-13-195027_1360x768_scrot.png)
 
+![enter image description here](https://github.com/shikikan-neko08/bspwm-summer/blob/Main/assets/2021-09-13-195118_1360x768_scrot.png)
+
 
       
 
