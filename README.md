@@ -17,8 +17,7 @@
 * Bar       : Polybar
 * Lockscreen: betterlockscreen
 
-There are 2 terminal options, kitty can be launched using mod+Return. While urxvt can be launched using mod=shift+return.
-addittionally 
+There are 2 terminal options, kitty can be launched using mod+Return. While urxvt can be launched using mod+shift+return.
 
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)
@@ -30,7 +29,7 @@ addittionally
  * rxvt-unicode    
  * nitrogen 
  * Font Awesome
- * w3m 
+ * w3m (for neofetch/ranger images on urxvt)
 
    
  
