@@ -17,15 +17,20 @@
 * Bar       : Polybar
 * Lockscreen: betterlockscreen
 
+There are 2 terminal options, kitty can be launched using mod+Return. While urxvt can be launched using mod=shift+return.
+addittionally 
+
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)
  * [kitty](https://github.com/kovidgoyal/kitty)
  * [BSPWM](https://github.com/baskerville/bspwm)
  * [sxhkd](https://github.com/baskerville/sxhkd)
  * [Polybar](https://github.com/polybar/polybar)
- * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)      
+ * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+ * rxvt-unicode    
  * nitrogen 
  * Font Awesome
+ * w3m 
 
    
  
